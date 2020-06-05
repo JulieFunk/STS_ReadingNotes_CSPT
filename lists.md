@@ -1,0 +1,9 @@
+# The List
+
+*Field: STS*
+
+Problematic 1: STS - general
+
+Problematic 2: Affect and Embodiment
+
+Problematic 3: Posthumanism and Biopolitics
