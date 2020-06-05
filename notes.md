@@ -16,9 +16,15 @@ Uses Negri's "mere jelly" (defines her use on p. 83) as theoretical groundwork f
 
 *"There is no longer, if there ever was, a single, binding, universal history of the body, nor is it possible to speak today of the body as a cohesive singularity . . . Body drift refers to the fact that we no longer inhabit *a* body in any meaningful sense of ther term but rather occupy a multiplicity of bodies--imaginary, sexualized, disciplined, gendered, laboring, technologically augmented bodies. Moreover, the codes governing behaviour across this multiplicity of bodieshave no real stability but they themselves are in drift--random, fluctuating, changing." (p. 2)*
 
-Kroker has taken on the formidable task of contending with three seminal feminist thinkers in the contemporary Western tradition. Kroker traces each of Butler's, Hayles', and Haraway's novel refusals of genealogies of gender and sexuality, computational chaos and order, (turns which push these three thinkers from the traditions of the postmodern (via groundwork in Nietzsche, Heidegger, and Marx)and toward the posthuman) in relation to their treatments of re-writing embodiment ontologies. In tracing these three thinkers' refusals of a genealogical treatment of the singular, human, material body, *Body Drift* foils its critique as it stands as its own, albeit incomplete, genealogy of posthuman embodiment.
+Kroker has taken on the formidable task of contending with three seminal feminist thinkers in the contemporary Western tradition. Kroker traces each of Butler's, Hayles', and Haraway's novel refusals of genealogies of gender and sexuality, computational chaos and order, and the violence of capital-colonial scientific thinking (turns which push these three thinkers from the traditions of the postmodern (via groundwork in Nietzsche, Heidegger, and Marx)and toward the posthuman) in relation to their treatments of re-writing embodiment ontologies. In tracing these three thinkers' refusals of a genealogical treatment of the singular, human, material body, *Body Drift* foils its critique as it stands as its own, albeit incomplete, genealogy of posthuman embodiment.
 
 **Contingencies (Butler)**
+
+*"Oscillating wildly between hyperaesthetics and excremental culture, the body desperately clings to any floating signs: the signs of death, panic, fear; the signs of insecurity and instability; but perhaps also the signs of new a multiplicity that is struggling to be born, exist and thrive." (p. 38)
+
+*"Neither a liberal humanist committed to abstract universalism nor a poststructural deconstructionist, Butler occupies a third space in the theorization of power. Silently streaming her thought with other nomadic thinkers before her, she sets out to *undo* interpellation, to *undermine* signification, to *work through* bad conscience, and to do this in a way that is neither universal nor particular but deeply reflexive. (p. 42)*
+
+
 
 **Complexities (Hayles)**
 
