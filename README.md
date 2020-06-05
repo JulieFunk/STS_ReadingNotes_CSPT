@@ -1,2 +1,2 @@
-# STS_ReadingNotes_CSPT
+# STS ReadingNotes for CSPT
 Major field comprehensive exam reading list and notes
