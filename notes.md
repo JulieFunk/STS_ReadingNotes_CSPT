@@ -8,7 +8,7 @@ Shukin is writing in between the traditions of biopolitical thought from Foucaul
 
 *"...animals reduced to 'mere jelly' even as they are contradictorily rendered in lively signs of technolpgical mobility." (p. 86)*
 
-Uses Negri's "mere jelly" (defines her use on p. 83) as theoretical groundwork for process of animal rendering, both figuratively and literally. Shukin's examples of this process include "automobility" (cars-as-animals/Fordist industrialization), "telemobility" (Telus animals/Galvani's frogs, Eddison's Topsy), and "biomobility" (Animal Copyright/zoonotic diseases).
+Uses Negri's "mere jelly" (defines her use on p. 83) as theoretical groundwork for process of animal rendering, both figuratively and literally. Shukin's examples of this process include "automobility" (cars-as-animals/Fordist industrialization), "telemobility" (Telus animals/Galvani's frogs, Edison's Topsy), and "biomobility" (Animal Copyright/zoonotic diseases).
 
 *tags*: animal studies, biopolitics, posthumanism, semiotics, laguage, capitialism
 
