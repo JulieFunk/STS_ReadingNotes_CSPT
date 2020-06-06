@@ -28,6 +28,10 @@ Butler's understanding of the body as a site of grieving and becoming: Here embo
 
 **Complexities (Hayles)**
 
+*"Hayles raises once again the challenge of any vision of the humanities taht would be paradigmatic, namely, how to construct the creative posthuman subject out of the Charybdis of (modern) chaos and (posthuman) complexity, while avoiding the Scylla of (postmodern) catastrophe and (hypermodern) crash." (p. 67)*
+
+*p. 74
+
 **Hybridities (Haraway)**
 
 
