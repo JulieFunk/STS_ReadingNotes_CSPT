@@ -1,6 +1,22 @@
 # Notes log
 
-**Last updated: June 10, 2020**
+**Last updated: June 12, 2020**
+
+## *Posthuman Bodies*, Jack Halberstam and Ira Livingston (Eds.). 1995.
+
+** "Introduction: Posthuman Bodies," Jack Halberstam and Ira Livingston **
+
+*"The posthuman does not necessitaate the obsolecence of the human; it does not represent the an evolution or devolution of the human. Rather it participated in re-distributtion of difference and identity. The human functions to domesticate and hierarchize difference within the human (where according to race, class, gender) and to absoutize difference between the human and the nonhuman. The posthuman does not reduce difference-from-others to difference-from-self, but rather emerges in the pattern of resonance and interference between the two. The additive other (who is subordinate in several systems at once) is not necessarily the geometrically other of the posthuman, who may well be 'between between' in a single system." (p. 10)* 
+
+- Through a collection of essays on posthuman cultural analysis, Halberstam and Livingston have compiled a landmark of late-twentieth century thought primarily concerned with the shedding away of postmodernist/poststructuralist thought. "Posthuman Bodies" embraces a constant breaking down and shifting of signs and narratives. Though Deleuzian postmodern notions of "multiplicity" inform the fragmented and faceted posthuman body presented by Halberstam and Livingston, singularity/multiplicity is not a satisfactory exclusion/inclusion of a human/posthuman body binary for these authors. Rather, H&L's posthuman body is constantly and irreducibly in a (re)circulation and (re)production of itself and its environment.
+
+** "Identity in Oshkosh," Allucquere Rosanne Stone **
+
+*"I am primarily concerned here with how the phenomenon of multiple personalities fits into a broader framework of cultural developments in which the abstract machine of multiplicity (in Deleuze and Guattari's words) is grinding finer and finer. Among the phenomena at the close of the mechanical age which are useful to note is the pervasive burgeoning of the ontic and epistemic qualities of multiplicity in all their forms." (p. 30)*
+
+- Stone's provides an ethnographic account of a Wisconsin sexual assault trial where the assualt victim experiences "multiple personality disorder (MPD)," though I'll refer to the lived experience by its current medical name, dissociative identity disorder (DID). Stone uses the case as a heuristic for posing onto-epistemological questions concerning the fragmentation of posthuman identity/personality/body/virtuality. Though Stone offers some evidence which works to *depathologize* DID, for example, she includes Turkle's normalizing comparison of "MPD" to virtual systems via "multiple-user domains (MUDS)" (34), I'm skeptical that Stone's use of DID as a psychoanalytic figuration of posthuman identity does not work to reinforce pathology, or at least exploit it for intellection, much in the tradition of Deleuze and Guattari's use "schizophrenia."
+
+** "Reproducing the Posthuman Body: Ectogenetic Fetus, Surrogate Mother, Pregnant Man," Susan M. Squier **
 
 ## *Animal Capital: Rendering Life in Biopolitical Times*, Nicole Shukin. 2009.
 
