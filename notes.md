@@ -2,7 +2,7 @@
 
 **Last updated: June 18, 2020**
 
-## *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, N. Katherine Hayles
+## *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, N. Katherine Hayles. 1999.
 
 *Embodiment has been systematically downplayed or erased in the cybernetic construction of the posthuman in ways that have not occured in other critiques of the liberal humanist subject, especially in feminist and postcolonialist critiques. Indeed, one could argue that the erasure of embodiment is a feature common to *both* the liberal humanist subject and the cybernetic posthuman (p. 4)*
 
@@ -14,7 +14,7 @@
 
 *"The struggle to achieve autopoietic status can be understood as a boundary dispute in which one tries to claim the privileged "outside" position of an entity that defines its own goals while forcing one's opponent to take the "inside" position of an allopoietic component incorporated into a larger system...[Philip K.] Dick understood that how boundaries are constituted would be a central issue in deciding what counts as living in the late twentieth century." (p. 161)*
 
-*"(Re: Foucault) Focusing on embodiment would help to clarify the mechanisms of change, for it links a changing technological landscape with the instantiated enactments that create feedback loops between materiality and discourse." (p. 195)*
+*"[Re: Foucault] Focusing on embodiment would help to clarify the mechanisms of change, for it links a changing technological landscape with the instantiated enactments that create feedback loops between materiality and discourse." (p. 195)*
 
 - The issue of the creation/evolution of posthuman subject through literature is a main conern of Hayles' analysis. Here, the analysis of Dick's "boundary" work within reflexive tensions of consciousness and subjectivity might be seen as a sort of Butlerian/Fanon response to the Hegelian dialect (*Giving an Account,* *Black Skin, White Masks*). However, in Dick's work, the emphasis on autopoietic subject-as-system pressures the conception of the cultural production of subjects as a singular cohesive system with feedback loops responding to the pattern/randomness dialectic, rather than a dialectic (feedback loop) of dominant *embodied experiences* as *signified/interpellated* (particularly race and gender) which drive Fanon and Butler's works. This is one of the shortcomings of Hayles' distinct focus on the evolution of the posthuman subject out of the cybernetic age.
 
