@@ -2,9 +2,9 @@
 
 **Last updated: June 18, 2020**
 
-## *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, N. Katherine Hayles**
+## *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, N. Katherine Hayles
 
-*Embodiment has been systematically downplayed or erased in the cybernetic construction of the posthuman in ways that have not occured in other critiques of the liberal humanist subject, especially in feminist and postcolonialist critiques. Indeed, one could argue that the erasure of embodiment is a feature common to *both* *the liberal humanist subject and the cybernetic posthuman (p. 4)*
+*Embodiment has been systematically downplayed or erased in the cybernetic construction of the posthuman in ways that have not occured in other critiques of the liberal humanist subject, especially in feminist and postcolonialist critiques. Indeed, one could argue that the erasure of embodiment is a feature common to *both* the liberal humanist subject and the cybernetic posthuman (p. 4)*
 
 - Just as the age of cybernetics increasingly produced understandings of the (post)human as a system of information, homeostasis/reflexive production, ultimately erasing embodiment from the body-as-machine, Hayles argues that liberal humanism similarly fails to represent embodied experience, particularly through the erasure of embodied experiences of anyone who was not a white-settler, adult, male. Hayles assumptions about historical efforts to dematerialize from embodied experience might be complicated by a deeper genealogical view. Particularly, how might self-starving "Holy Anorexic" nuns of the 15th C., who refused food and their own flesh as abject in an attempt to become closer to God, complicate claims of erasure of embodiment as particularly importatn to liberal humanism and cybernetic posthumanism?
 
@@ -22,13 +22,13 @@
 
 - "Distributed consciousness," that is, understanding the posthuman subject as existing and experiencing across various and multiple levels of signification (at all levels also embodied!), remains a primary trait of Hayles' posthuman. This is comparable to the "fragmented identities" that appear across Halberstam and Livingston. One similarity being the emphasis shared on the multiple (see Deleuze and Guattari). However, though Hayles does contend with performativity briefly (p. 274), the notion of posthuman *identity* as primarily the effect of cultural production (as presented in H&L) is nuanced by Hayles insistance that all of "cultural production," "signification," "consumption," "embodied experience," and "representation" are separate yet related features in the networked production of the posthuman subject.
 
-*tags: posthuman, embodiment, cybernetics, multiplicities, postmodern, concsiousness, signification, semiotics, reflexivity
+*tags: posthuman, embodiment, cybernetics, multiplicities, postmodern, concsiousness, signification, semiotics, reflexivity*
 
 ## *Posthuman Bodies*, Jack Halberstam and Ira Livingston (Eds.). 1995.
 
 **"Introduction: Posthuman Bodies," Jack Halberstam and Ira Livingston**
 
-*"The posthuman does not necessitaate the obsolecence of the human; it does not represent the an evolution or devolution of the human. Rather it participated in re-distributtion of difference and identity. The human functions to domesticate and hierarchize difference within the human (where according to race, class, gender) and to absoutize difference between the human and the nonhuman. The posthuman does not reduce difference-from-others to difference-from-self, but rather emerges in the pattern of resonance and interference between the two. The additive other (who is subordinate in several systems at once) is not necessarily the geometrically other of the posthuman, who may well be 'between between' in a single system." (p. 10)* 
+*"The posthuman does not necessitate the obsolecence of the human; it does not represent the an evolution or devolution of the human. Rather it participated in re-distributtion of difference and identity. The human functions to domesticate and hierarchize difference within the human (where according to race, class, gender) and to absoutize difference between the human and the nonhuman. The posthuman does not reduce difference-from-others to difference-from-self, but rather emerges in the pattern of resonance and interference between the two. The additive other (who is subordinate in several systems at once) is not necessarily the geometrically other of the posthuman, who may well be 'between between' in a single system." (p. 10)* 
 
 - Through a collection of essays on posthuman cultural analysis, Halberstam and Livingston have compiled a landmark of late-twentieth century thought primarily concerned with the shedding away of postmodernist/poststructuralist thought. "Posthuman Bodies" embraces a constant breaking down and shifting of signs and narratives. Though Deleuzian postmodern notions of "multiplicity" inform the fragmented and faceted posthuman body presented by Halberstam and Livingston, singularity/multiplicity is not a satisfactory exclusion/inclusion of a human/posthuman body binary for these authors. Rather, H&L's posthuman body is constantly and irreducibly in a (re)circulation and (re)production of itself and its environment.
 
@@ -38,9 +38,9 @@
 
 - Stone's provides an ethnographic account of a Wisconsin sexual assault trial where the assualt victim experiences "multiple personality disorder (MPD)," though I'll refer to the lived experience by its current medical name, dissociative identity disorder (DID). Stone uses the case as a heuristic for posing onto-epistemological questions concerning the fragmentation of posthuman identity/personality/body/virtuality. Though Stone offers some evidence which works to *depathologize* DID, for example, she includes Turkle's normalizing comparison of "MPD" to virtual systems via "multiple-user domains (MUDS)" (p. 34), I'm skeptical that Stone's use of DID as a psychoanalytic figuration of posthuman identity does not work to reinforce pathology, or at least exploit it for intellection, much in the tradition of Deleuze and Guattari's use "schizophrenia."
 
-**"Soft Fictions and Intimate Documents," Paula Rabinowitz
+**"Soft Fictions and Intimate Documents," Paula Rabinowitz**
 
-*"The last images of the film [*Soft Fiction*] *return to more clichéd images from softcore porn--a woman's abandon as a shower of clear water washes over her, a woman walking barefoot along the shore, two naken women frolicking on horseback. These also are the clichés of California independent filmmaking of the 1960s--the sensuous display of the body at play in nature...they recontain the stories of female transgression and pleasure in the face of masculine power within the limits of conventionalized depictions of female desire. Yet the stories [of sexual trauma] undercut this containment, violating boundaries, just as the excesses of the extreme close-ups explide the documentary conventions of the talking head by overvaluing the partial elements of the face...These fragmented, cut-up icons of femininity that appear commodified in advertisements have been recharged by the speakers...Strand wants us to begin questioning how female pleasures are experienced and represented in patriarchal culture." (p. 108)*
+*"The last images of the film [*Soft Fiction*] return to more clichéd images from softcore porn--a woman's abandon as a shower of clear water washes over her, a woman walking barefoot along the shore, two naken women frolicking on horseback. These also are the clichés of California independent filmmaking of the 1960s--the sensuous display of the body at play in nature...they recontain the stories of female transgression and pleasure in the face of masculine power within the limits of conventionalized depictions of female desire. Yet the stories [of sexual trauma] undercut this containment, violating boundaries, just as the excesses of the extreme close-ups explide the documentary conventions of the talking head by overvaluing the partial elements of the face...These fragmented, cut-up icons of femininity that appear commodified in advertisements have been recharged by the speakers...Strand wants us to begin questioning how female pleasures are experienced and represented in patriarchal culture." (p. 108)*
 
 *"They do have histories, and these histories will be found in what has been left of out the official accounts of the marginal. Posthumans always lie. Can posthuman women speak? Of course. Will they speak to us? Not likely." (p. 99)*
 
@@ -48,7 +48,7 @@
 
 - Note, in Susan M. Squeir's ""Reproducing the Posthuman Body," she argues that, "Contemporary reproductive writing [and perhaps sexual writing too], can articulate not only the oppressive posthuman, but also--in its resistant discourses--the new images ans contexts that will shape the more productive and pleasurable models for reproducing the posthuman body." (p. 129)
 
-*tags: posthuman, embodiment, queer theory, multiplicities, postmodern, sex, gender, reproduction, identity
+*tags: posthuman, embodiment, queer theory, multiplicities, postmodern, sex, gender, reproduction, identity*
 
 ## *Native American DNA: Tribal Belonging and the False Promise of Genetic Science*, Kim Tallbear. 2013
 
