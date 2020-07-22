@@ -12,17 +12,37 @@
 
 *"[The Informatics of Domination] This list suggests several interesting things. First, the objects on the right-hand side cannot be coded as "natural," a realization that subverts naturalistic coding for the left-hand side as well. We cannot go back ideologically or materially...In relation to objects like biotic components, one must think not in terms of strategies of design, boundary constraints, rates of flow, systems logic, costs of lowering constraints. Sexual reproduction is one kind of reproductive strategy among many, with costs and benefits as a function of the system environment. Ideologies of sexual reproduction can no longer reasonably call on the notions of sex and sex role as organic aspects in natural objects like organisms and families." (pp. 20-21)*
 
-- Haraway tells us that the cyborg does not find its origins in Eden and is not a product of sexual reproduction. Similar to its *originlessness*, the also cyborg lacks an end or *telos* unlike the humanist subject of *Western epistemologies* (p. 16), whose end is to uncover natural truths as "modest witness."
+- Haraway tells us that the cyborg does not find its origins in Eden and is not a product of sexual reproduction. Similar to its *originlessness*, the cyborg also lacks an end or *telos* unlike the humanist subject of *Western epistemologies* (p. 16), whose end, through "specific civil engineering" is to uncover natural truths as "modest witness" (p. 226) 
 
 - Here "systems logic" is presented as being in conflict with cyborg politics in the "Informatics of Domination," that is, systems logic cannot explain away *material nature* from its presumed counterpart *ideological culture*. Cary Wolfe presents a more favourable account of systems logic and systems theories in *What Is Posthumanism?*. For Wolfe, systems theory is a tool that can (and should) be used against itself to find the discursive boundaries within any system that make said system autopoietic and thereby often reified as natural.
 
+- Interestingly, "the informatics of domination" is the last item on *The Informatics of Domination* list, making it a reflexive system. Haraway does not fully address this.
+
+*"Communications technologies and biotechnologies are the crucial tools to recrafting our bodies. These tools embody and enforce new socialrelations for women worldwide. Technologies and scientific discourses can be partially understood as formalizations, i.e., as frozen moments, of the fluid social interactions constituting them, but they should aslo be viewed as instruments for enforcing meanings. The boundary is permeable between tool and myth, instruments and concept, historical systems of social relations and historical anatomies of possible bodies, including objects of knowledge. Indeed, myth and tool mutually constitute each other. Furthermore, communication sciences and modern biologies are constructed by a common move--*the translation of the world into a problem of coding.*" (p. 23)*
+
+*"The biggest threat to such power [of coding coding quantifiable elements] is interruption of communication. Any system breakdown is a function of stress." (p. 23)*
+
+- Readers are reminded that science is always discursive and that "science" is irreducible from "science communications." The problem of coding fixes objects of knowledge as contained and quantifiable within the communications systems. This is, of course, is a myth long proferred by science communications and dominant forms of science discourse.
+
+- The interruption of such communications, or the introduction of new methods of communicating objects of knowledge, works to queer those objects from the dominant discourse, and thereby point to how a *queerness* of scientific knowledge prefigures the dominant communication of scientific knowledge. This is how cyborg politics works.
+
 **"Morphing in The Order: Flexible Strategies, Feminist Science Studies, and Primate Revisions"**
 
-- 
+*"The major epistemological issue for me...is that knowledge is *always* an engaged material practice and *never* a disembodied set of ideas." (p. 200)*
+
+*"Science and science studies depend constitutively upon troping. Unless we swerve, we cannot communicate; there is no direct route to the relationship we call knowledge, scientific or otherwise." (p. 201)*
+
+*"*First*, I am physically hypersensitive to the historically specific, materially-semiotically dense practices that constitute science made, as well as science in the making (Latour 1987). Science is practice and culture (Pickering 1992) at every level of the onion. There is no core, only layers...Everything is supporters, but there is no final foundation, only the infinite series of carrying all there is...[N]othing insoluble precipitates out of the solution of science as cultural practice." (pp. 201-202)*
+
+- In these pages, Haraway argues that science communication is embedded in circumstance or situatedness. There is no role in science that allows a transcendent, objective knowledge to emerge in front of the witness. Rather, science is constituted on troping through what means of communication and available language we have. Thus, the material practices of science and science studies are always engaged in their semiotic structuring.
+
+- Instead, she suggests that "zones of implosion" (similar to naturecultures) are more useful areas for knowledge-making-projects because the knowledge here emerges "at stake, and alive," self-aware of its "technical, mythic, organic, cultural, textual, oneiric (dream-like), political, economic, and formal lines of force" (p. 207).
 
 **"Modest_Witness@Second_Millenium"**
 
-*tags: science studies, feminist sts, objectivity, partialiality, hybridity, cyborg theory
+*"It was the general absence, not the occaisonal presence, of women of whatever class or lineage/color--and sexual difference worked--that gendered the experimental way of life in a particular way...Gender is the relation between variously constituted categories of of men and women (and variously arrayed tropes), differentiated by nation, generation, class, lineage, color, and much else. Shapin and Schaffer assembled all the elements to say something about how gender was on of the products of the air-pump; but the blind spot of seeing gender as women instead of as a relationship got in the way of the analysis...all the entities in technoscience are constituted *in* the action of knowledge production, not *before* the action starts." (pp. 228-229)*
+
+*tags: science studies, feminist sts, objectivity, partialiality, hybridity, cyborg theory, discourse, science and technology communications
 
 ## *The Logic of Care*, Annemarie Mol. 2008.
 
