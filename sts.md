@@ -1,6 +1,28 @@
 # STS Notes Log
 
-**Last updated: July 7, 2020**
+**Last updated: July 21, 2020**
+
+## *The Haraway Reader*, Donna Haraway. 2004.
+
+**"A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"**
+
+*"It remains to be seen whether all 'epistemologies' as Western political people have known them fail us in the task to build effective affinities...The acid tools of post-modernist theory and the constructive tools of ontological discourse about revolutionary subjects might be seen as ironic allies in dissolving Western selves in the interests of survival. We are excrutiatingly conscious of what it means to have a historically constituted body." (p. 16)*
+
+- Haraway critiques the broad category of epistemologies of "Western political people" in their abilitity to "build effective affinities" or rather, create hybridities that transgress Western epistemological essentialism. Though (post-modern) deconstruction and culture-construction approaches may, ironically, aid in moving away from such Western philosophical essentialism, creating effective affinities must reconcile with, but not be subsumed by, one's historically constituted self (the onto-epistemological self). 
+
+*"[The Informatics of Domination] This list suggests several interesting things. First, the objects on the right-hand side cannot be coded as "natural," a realization that subverts naturalistic coding for the left-hand side as well. We cannot go back ideologically or materially...In relation to objects like biotic components, one must think not in terms of strategies of design, boundary constraints, rates of flow, systems logic, costs of lowering constraints. Sexual reproduction is one kind of reproductive strategy among many, with costs and benefits as a function of the system environment. Ideologies of sexual reproduction can no longer reasonably call on the notions of sex and sex role as organic aspects in natural objects like organisms and families." (pp. 20-21)*
+
+- Haraway tells us that the cyborg does not find its origins in Eden and is not a product of sexual reproduction. Similar to its *originlessness*, the also cyborg lacks an end or *telos* unlike the humanist subject of *Western epistemologies* (p. 16), whose end is to uncover natural truths as "modest witness."
+
+- Here "systems logic" is presented as being in conflict with cyborg politics in the "Informatics of Domination," that is, systems logic cannot explain away *material nature* from its presumed counterpart *ideological culture*. Cary Wolfe presents a more favourable account of systems logic and systems theories in *What Is Posthumanism?*. For Wolfe, systems theory is a tool that can (and should) be used against itself to find the discursive boundaries within any system that make said system autopoietic and thereby often reified as natural.
+
+**"Morphing in The Order: Flexible Strategies, Feminist Science Studies, and Primate Revisions"**
+
+- 
+
+**"Modest_Witness@Second_Millenium"**
+
+*tags: science studies, feminist sts, objectivity, partialiality, hybridity, cyborg theory
 
 ## *The Logic of Care*, Annemarie Mol. 2008.
 
