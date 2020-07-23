@@ -1,6 +1,12 @@
 # STS Notes Log
 
-**Last updated: July 21, 2020**
+**Last updated: July 23, 2020**
+
+## "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective", Donna Haraway. 1988.
+
+*"All these pictures of the world should not be allegories of infinite mobility and interchangeability but of elaborate specificity and difference and of the loving care people might take to learn how to see faithfully from another's point of view, even when the other is our own machine. That's not alienating distance; that's a *possible* allegory for feminist versions of objectivity. Understanding how these visual systems work, technically, socially, and psychically, out to be a way of embodying feminist objectivity." (p. 583)*
+
+- Note, I find Haraway's later work on this topic, particularly "Modest_Witness" a much more polished presentation of the arguments in "Situated Knowledges" and would likely approach such later work before SK. I found the "we" in Haraway's "feminism"/"feminist objectivity" broad to the point of ambiguity, leaving me to question which identities/bodies/persons were not being included in the category of "feminis(t/m)s."
 
 ## *The Haraway Reader*, Donna Haraway. 2004.
 
