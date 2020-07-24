@@ -1,3 +1,4 @@
+**Last updated: July 24, 2020
 
 ## Prompt: Identify three distinct articulations of posthumanism ##
 
