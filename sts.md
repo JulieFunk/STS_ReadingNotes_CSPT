@@ -16,9 +16,17 @@
 
 - The authors go to great pains in the first 10 pages of their book to critique the tautological knowledge produced by in-group members of any community being investigated. However, Shapin and Schaffer do not ever examine their own situatedness and the assumptions their perspectives warrant beyond taking a "stranger's perspective," the extent to which scientific knowledge production remains "strange" to the authors is unclear.
 
+*"How did one police the reports of witnesses so as to avoid radical individualism? Was one obliged to credit a report on the testimony of any witness whatsoever? Boyle insisted that witnessing was to be a collective act. In natural philosophy, as in criminal law, the reliability of testimony depended on its multiplicity...In experimental practice one way of securing the multiplication of witnesses was to perform experiments in social space." (pp. 56-57)
 
-- SOCIAL AND POLITICAL IMPLICATIONS
+- The authors identify three "technologies"; material, literary, and social. Boyle employed mechanical tests (material technology) in front of witnesses (social technology) to have the experimental method be percieved as able to produce "matters of fact" that were necessarily unassailable after the witnesses agreed upon the explanatory conditions of the phenomenon. Boyle also meticulously detailed his notes (literary technology) in order that his experimental results may be replicated by "virtual witnesses" (with varying and limited success). The experiments themselves, and the assent gained among witnesses as community members was seen as faulty and lacking rigour by Hobbes, who criticized Boyle's "public" witnessing as being made up by a private community of aristocratic natural philosophers. However, Boyle countered Hobbes' criticism by arguing that heady natural philosophy was grounds for producing dogmatic views of possible "radical individualism." He use the political unrest of the restoration and the increasing power of the church to bolster such radical individualism in the scientific community would be akin to "*heresy*" (p. 295). See the below quote:
 
+- *"[The Royal Society' view,] Radical individualism--the state in which each individual sets himself up as the ultimate judge of knowledge--would destroy the conventional basis of proper knowledge, while the disciplined collectiv social structure of the experimental form of life would create and sustain that factual basis. There the experimentalists were on guard against 'dogmatists' and 'tyrants' in philosophy, just as they abominated 'secretists' who produced their knowledge-claims in a private and undisciplined space." (p. 78)*
+
+*"These exchanges [between experimentalists and the Church] gave considerable point to the proposals that Boyle and his allies produced for an establishment of a social space in which dissent would be safe and tolerable." (p. 301)*
+
+- Ultimately, while Boyle's argument came out on top as the more historically persuasive approach to the production of scientific knowledge, the authors concede with Hobbe's moral and political rejection of Boyle's experimental method as a grounds for producing "matters of fact" that influenced by the very human actions and involvement present in conducting and interpreting the experiment.
+
+*tags: history of science, social technologies, witnessing, restoration politics
 
 ## "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective", Donna Haraway. 1988.
 
