@@ -1,6 +1,24 @@
 # STS Notes Log
 
-**Last updated: July 23, 2020**
+**Last updated: August 1, 2020**
+
+## "Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life", Steven Shapin and Simon Schaffer. 1985.
+
+*"In [the scientific member's self-evident] method [of history of science] the presuppositions of our own culture's beliefs and practices are referred to the unambiguous facts of nature or to universal and impersonal criteria of how people just do things (or do them when behaving 'rationally'). A lay member of our culture, if asked why he calls an ostrich a bird, will probably tell his inquisitor that ostriches just *are* birds..." (p. 5)*
+
+- Shapin and Schaffer identify that in-member analysis of one's own subculture is often fraught with tautalogical thinking and erroneous irreducibility. *Things are the way they are because that's the way they are*. While the sciences have historically made (and often continue to make) claims that "authentic" scientific knowledge can be secured through rigorous, replicable, and repeatable proof (often via the experimental mode), Shapin and Schaffer recognize that one's own membership can produce near-sightedness through a sort of survivorship bias historical criticism ("the historian accomplishes this by taking the side of accepted knowledge [rather than rejected] (p.11)) of *how and why things are the way they are*. In this way Shapin and Schaffer recognize (in part) the value of what Haraway calls "situated knowledge." Though as Haraway critiques in "Modest Witness," the authors do not overcome other aspects of their situatedness, such as the experimental mode's role in the production of gendered bodies as in-group or out-group members.
+
+*"Almost needless to say, our purpose is not evaluative: it is descriptive and explanatory. Nevertheless, questions relating to evaluation do figure centrally in this book and they do so in several ways. We have said that we shall be setting out by pretending to adopt a "stranger's perspective" with respect to the experimental programme..." (p. 12)*
+
+*"...Boyle did not detail the steps by which he moved from matters of fact to their explanation. He did not, for example, say in what ways the air's 'elastical power' [what we now call air pressure] had been 'evinced' and established; he merely announced that this had been accomplished...Boyle was treating these explanatory items as if they were matters of fact and not hypotheses: their real existence had been *proved* by experiment and he entertained no doubt on that score." (p. 50)*
+
+- Many of Boyle's experimental conclusions hinged on unexplained/warranted information ("matters of fact"). These findings, should they be accepted by Boyle's private community of "public experimentation" as conventions, and thereby socially necessitated, Boyle's experimental method was also, of course, a product of tautologically explained phenomena that were proven to be "matters of fact" simply by their assumed causal role in the experiment, rather than a the explanatory product or finding. 
+
+- The authors go to great pains in the first 10 pages of their book to critique the tautological knowledge produced by in-group members of any community being investigated. However, Shapin and Schaffer do not ever examine their own situatedness and the assumptions their perspectives warrant beyond taking a "stranger's perspective," the extent to which scientific knowledge production remains "strange" to the authors is unclear.
+
+
+- SOCIAL AND POLITICAL IMPLICATIONS
+
 
 ## "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective", Donna Haraway. 1988.
 
