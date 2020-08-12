@@ -1,6 +1,29 @@
 # STS Notes Log
 
-**Last updated: August 1, 2020**
+**Last updated: August 12, 2020**
+
+## "An Introduction to Science and Technology Studies", Sergio Sismondo. 2010.
+
+*"For Heidegger [in "The Question Concerning Technology"], distinctly modern technology is the application of science in the service of power; this is an objectifying pricess. In contrast to the craft tradition that produced individualized things, modern technology creates researches, objects made to be used. From the poing of view of moderen technology, the world consists of resources to be turned into new resources. A technological worldview thus produces a thorough disenchantment of the world." (p. 9)*
+
+-
+
+*"One of the targets of [Thomas Kuhn's] *The Structure of Scientific Revolutions* is what is known (since Butterfield 1931) as "Whig history," history that attempts to construct the past as a series of steps toward (and occasionally away from) present view...According to Kuhn, *normal science* is the science done when members of a field share a recognition of key past achievements in their field, beliefs about which theories are righ, an understanding of the important problems of the field, and methods for solving those problems. In Kuhn's terminology, scientists doing normal science share a *paradigm*." (p. 12)*
+
+-
+
+*"By definition, scientific and technical controversies display alternative representations, alternative attempts to construct theories and the like... a choice between Newton's and Leibniz's metaphysics may have been related to political circumstances (Shapin 1981)...Builders of technology do *heterogenous engineering* (Law 1987). They have to simultaneously build artifacts and build environments in which those artifacts can function - and, typically, neither of these activities can be done on their own. Technologists need to combine raw materials, skills, knowledge, and capital, and to do this they must enroll any number of actors, not all of whom may be immediately compatible...What we might call *heterogeneous construction* is the simultaneous shaping of the material and social world, to make them fit each other, a process of "co-construction" (Taylor 1995)." (pp. 64-65)*
+
+-
+
+*"Feminist empiricism's trajectory naturally takes it toward *standpoint theory* (or standpoint epistemology), a theory of the privilege that particular perspectives can generate...The central argument is that women's experience of sexual discrimination allows them to better understand gender relations. They are able to see aspects of discrimination that cannot be seen from the male perspective...For the task of recognizing bias and discrimination, whether in scientific theories, science, or some larger society, [standpoint theory posits that] women are well positioned. More generally, people for whom social constraints are oppressive can more easily understand those constraints than can others." (p. 76)*
+
+- Is the experience of sexual or gendered discrimination singular, universal, and monolithic? Is *Feminism* singular, universal, and monolithic? Sismondo's presentation of feminist epistemologies in STS does little to engage in intersectionality and boundary work. This lack of awareness or interest in such intersections is reflected in the structure of his book. Dedicating only one chapter exclusively to the discussion of feminist STS (none on race, notably) with little effort to weave such perspectives into and across the enirety of his reflections on STS as a field.
+
+*"When Isaac Newton wanted to communicate his theory of light, in his "New Theory of Light and Colours" of 1672, he recast a collection of observations to form a condensed narrative of an experiment (Bazerman 1988). The single experiment was in some sense a fiction, a result of Newton's writing, bit the narrative form was compelling in a way that a collection of observations and pieces of theoretical reasoning would not be. Newton was participating in already established tropes of British science, and was refining the genreof the experimental report." (p. 149)*
+
+-
+
 
 ## "Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life", Steven Shapin and Simon Schaffer. 1985.
 
