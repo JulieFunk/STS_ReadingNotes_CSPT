@@ -8,7 +8,17 @@
 
 - this (Twitter post)[https://twitter.com/RedThunderAudio/status/1293236914666037250?s=20]
 
-*
+*"The third methodological theme concerns *the past as indeterminate*. We are constantly revising our knowledge of the past in light of new developments in the present...A common example of this is a religious conversion where the past is retold as exemplifying errors, sinning, and repentance (Strauss 1959). Or when one comes out as gay or lesbian, childhood behaviours and teenage crushes become indicators of early inklingsof sexual choice (Wolfe and Stanley 1980)." (p. 40)*
+
+- 
+
+*"Garbage categories include an array of categories where things get put that you do not know what to do with--the ubiquitous "other"...These garbage or residual categories, then, tend to fix the maximum level of granularity that is possible. Their advantage is that they can signal uncertainty at the level of data collection or interpretation under conditions where forcing a more precise designation could give a false impression of positive data. The major disadvantage is that the lazy or rushed death certifier will be tempted to overuse 'other.' By their nature, forms of this kind are only manageable if there is a zone of ambiguity written into them." (p. 150)*
+
+*"...if someone wanted to be classified as white, but was classifies as coloured, she or he could not got to a white scholl. If they enrolled at a coloured school this could later become legal evidence that they *were* coloured." (p. 206)*
+
+*"The more rigid the system of racial segregation and inequity, the more important passing became to those living in the categorical borderlands." (p. 216)*
+
+- p. 210 - cultural traits as evidence for "natural" and essentialized racial classifications
 
 ## *An Introduction to Science and Technology Studies*, Sergio Sismondo. 2010.
 
