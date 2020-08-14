@@ -1,8 +1,16 @@
 # STS Notes Log
 
-**Last updated: August 12, 2020**
+**Last updated: August 14, 2020**
 
-## "An Introduction to Science and Technology Studies", Sergio Sismondo. 2010.
+## *Sorting Things Out: Classification and Its Consequences*, Geoffrey C. Bowker and Susan Leigh Star. 2000.
+
+*"[Infrastructural] inversion is a struggle against the tendency of infrastructure to disappear (except when breaking down). It means learning to look closely at technologies and arrangements that, by design and by habit, tend to fade into the woodwork (sometimes literally!). Infrastructral inversion means recognizing the depths of interdependence of technical networks and standard, on the one hand, and the real work of politics and knowledge production on the other.It foregrounds these normally invisible Lilliputian threads and furthermore gives them causal prominence in many areas usually attributed to heroic actors , social movements, or cultural mores." (p. 34)*
+
+- this (Twitter post)[https://twitter.com/RedThunderAudio/status/1293236914666037250?s=20]
+
+*
+
+## *An Introduction to Science and Technology Studies*, Sergio Sismondo. 2010.
 
 *"For Heidegger [in "The Question Concerning Technology"], distinctly modern technology is the application of science in the service of power; this is an objectifying pricess. In contrast to the craft tradition that produced individualized things, modern technology creates researches, objects made to be used. From the poing of view of moderen technology, the world consists of resources to be turned into new resources. A technological worldview thus produces a thorough disenchantment of the world." (p. 9)*
 
@@ -27,7 +35,7 @@
 *tags: STS, sociology, social constructivism, social reality, production of scientific knowledge.
 
 
-## "Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life", Steven Shapin and Simon Schaffer. 1985.
+## *Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life*, Steven Shapin and Simon Schaffer. 1985.
 
 *"In [the scientific member's self-evident] method [of history of science] the presuppositions of our own culture's beliefs and practices are referred to the unambiguous facts of nature or to universal and impersonal criteria of how people just do things (or do them when behaving 'rationally'). A lay member of our culture, if asked why he calls an ostrich a bird, will probably tell his inquisitor that ostriches just *are* birds..." (p. 5)*
 
