@@ -1,6 +1,36 @@
 # STS Notes Log
 
-**Last updated: August 14, 2020**
+**Last updated: August 18, 2020**
+
+## *Feminist Technology*, Eds., Linda L. Layne, Sharra L. Vostral, and Kate Boyer. 2010.
+
+**"Sorting Out the Question of Feminist Technology", Deborah G. Johnson**
+
+*"Cockburn and Ormrod's study [of the microwave oven] suggests that from the perspective of design and production of technology, we have a chicken-egg problem. We may have to have feminist social relations at all stages of the design and development process in order to produce feminist technologies. Interestingly, this chicken-egg problem is roughly the same as the one that Butler struggled with in *Gender Trouble* (1990). How can we conceptualize nongendered social relations when we think with language that is deeply gendered? (pp. 45-46)*
+
+*If we acknowledge the chicken-egg problem, this multiplicity of criteria might be the best we do without a sharply delineated notion or set of criteria. The important thing is that technology stays in the sights of the feminist social movement and that feminists call for sociotechnical systems that are good for women, gender equitable, sometimes favour women, and are always an improvement over prior gender inequitable social-relations."  (p. 52)* 
+
+- Johnson's sociotechnical analysis of "feminist technology" begins be posing a set of rhetorical yes-or-no questions about which technologies are "feminist" and what criteria must be met for a technology to be considered as such. She concludes that these types of questions are insufficient for getting to the sociotechnical production of gender, technologies, and thereby "feminist technologies" since these questions erroneously treat technologies as if they are essential, singular, and universal to the feminist experience (they either are or are not feminist technologies). 
+
+- This treatment, while focuses on exploring different approaches to feminism and thereby different problems that arise from various standpoints, does not address two important features of feminist technology: 1) technologies can change their politics depending on context, which leads us to recognize that there are no "neutral" technologies such as roads or telephones (p. 42) as both can be controlling (mobile phones make information more accessible/tracable to abusive contacts, road infrastructure and safety such as lighting and obfuscated corners determine if people vulnerable to attacks feel safe enough to use them) and liberating (mobile phones allow people to work and communicate outside of the domestic sphere, roads allow for independant travel to farther places with potentially more resources such as urban centres). Johnson's push for more nuanced evaluations of what makes a technology "feminist" argues for recognition of multiplicitous perspectives to the effect that we must recognize that no technology is immanently feminist, even if it was designed, produced, and circulated with feminist-driven ideals. 
+
+- However, this is never explicitly argued. Instead, Johnson concludes by merely situating "feminist technology" within a feminist sociotechnological approach.
+
+- While the author does address that feminist perspectives are variable within any given feminist sociotechnological approach, Johnson fails to to address that all technologies can be subverted for both feminist and anti-feminist uses, and that those feminisms are contingent on an individual "user's" situation and the context in which they use the technology that can conflict *within* feminist sociotechnological approaches (see Hardon this volume for examples of this in women's reproductive health). Further, Johnson's use of gendered terms such as "women" and "men" fail to include those who exist outside of or have transitioned through gender binaries and are necessary beneficiaries of "feminist technologies." The author's gendered language and ommittance of any tangible examples of differing perspectives across class, race, gender, and other cultural influences seems an irresponsible oversight at best and a neglectful treatment of intersectionality that risks erasure of the most vulnerable groups of feminist concern which often have differing needs from those feminist perspectives with more power to influence the production and design of such technologies.
+
+**"The Need to Bleed? A Feminist Technology Assessment of Menstrual-Suppressing Birth Control Pills", Jennifer Aengst and Linda L. Layne**
+
+*"The respondants in Aengst's survey who were reluctant to use Seasonale [a menstrual-suppressing oral contraceptive] linked a monthly cycle with feminity...many others react to these expressed views. Of women who say that "they didn't feel like women without their periods," one mother replies "Bah!" and shares how much she would welcome "never having to deal with a bloody tampon again." (p. 67)*
+
+- Aengst and Layne explore various responses to and receptions of menstrual-suppressing birth control pills, particularly Seasonale. In their analysis, the authors represent a variety of views through numerous feminist theoretical approaches. However, while the authors look at non-users and users (rejecters and adopters) of the technology, the authors fail to account for the position of the adjunct user, that is, the user who benefits from the technology but is not considered to be in the demographic of users for which the technology was intended for at the point of design and marketing. This idea builds off of Christine Satchell and Paul Dourish's work on re-thinking the relationship HCI has with its non-users.
+
+- The two groups of adjunct users most starkly missing from this discussion of menstrual-supressing birth control are those with ammenorhea and those who are using hormonal birth control as HRT for transitions (a popular behaviour because it's accessible, though considered dangerous by the medical community). Likewise, the authors don't address trans and non-binary people who experience menstruation but would like to limit it as much as possible to match their identity. The effect of this oversight is an incomplete and essentialist argument that presumes all women within the reproductive age menstruate and all menstruaters are women. Thus, the authors assume that anyone who has a stake in the discourse of menstruation and hormonal birth control are those within this singular and essentialist definition of "women" and who might use menstrual-suppressing birth control.
+
+- Ultimately, each author concludes by presenting her own evaluation of the technology and each author rejects the use of contraceptives like Seasonale as a feminist technology for a variety of the reasons expressed throughout the chapter). The effect of this is a sense that the authors' presumed expertise on the analysis makes their statements present as absolute moral critiques of the use of Seasonale, when they have not fully explored the various uses, users, and non-users of the technology.
+
+**
+
+*tags:
 
 ## *Sorting Things Out: Classification and Its Consequences*, Geoffrey C. Bowker and Susan Leigh Star. 2000.
 
