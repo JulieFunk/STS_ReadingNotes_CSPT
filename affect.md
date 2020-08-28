@@ -1,6 +1,19 @@
 # Affect and Embodiment Notes Log
 
-**Last updated: August 21, 2020**
+**Last updated: August 27, 2020**
+
+## *The Affect Theory Reader*, eds., Melissa Gregg and Gregory J. Seigworth. 2010.
+
+**"An Inventory of Shimmers", Gregory J. Seigworth and Melissa Gregg.**
+
+*"In practice, then, affect and cognition are never fully seperable--if for no other reason than that thought is itself a body, embodied...With affect, a body is as much outside itself as in itself--webbed in its relations--until ultimately such firm distinctions cease to matter...But as Spinoza recognized, this issue is never the generic figuring of "the body" (any body) but, much more singularly, endeavoring to configure *a* body and the affects/affectedness, its ongoing affectual composition of *a* world, the *this-ness* of a world and a body." (pp. 2-3)*
+
+*"Each essay presents its own account of encounters with forces and passages of intensity that bear out, while occasionally leaving bare, the singularly and intimately impersonal--even sub-personal and pre-personal--folds of belonging (or non-belonging) to a world. **That is the unceasing challenge presented by Spinoza's "not yet," conveying a sense of urgency that transforms the matter and mattering of affect into an ethical, aesthetic, and political task all at once.**" (p. 3, my emphasis)*
+
+*"What should follow as critical practice, Barthes argued, is a neutrally inflected, immanent *pathos* or 'patho-logy" that would be an 'inventory of shimmers, of nuances, of states, of changes (pathè)' as they gather into 'affectivity, sensibility, sentiment,' and come to serve as 'the passion for difference' (77). Here affect theory is, at one level, an 'inventory of shimmers' while. upon anther register, it is a matter of affectual composition (in a couple of senses of the word 'composition'--as an ontology always coming to formation but also,, more prosaically, as creative/writerly task). This is a passion for differences as continuous, shimmering gradations of intensities. **Making an inventory (of singularities).** And in the interval, is the stretching: unfolding a patho-logy (of 'not-yets')." (p. 11, my emphasis)
+
+**"
+
 
 ## *Gender Trouble*, Judith Butler. 1990.
 
