@@ -1,6 +1,6 @@
 # Affect and Embodiment Notes Log
 
-**Last updated: August 27, 2020**
+**Last updated: August 28, 2020**
 
 ## *The Affect Theory Reader*, eds., Melissa Gregg and Gregory J. Seigworth. 2010.
 
@@ -8,12 +8,40 @@
 
 *"In practice, then, affect and cognition are never fully seperable--if for no other reason than that thought is itself a body, embodied...With affect, a body is as much outside itself as in itself--webbed in its relations--until ultimately such firm distinctions cease to matter...But as Spinoza recognized, this issue is never the generic figuring of "the body" (any body) but, much more singularly, endeavoring to configure *a* body and the affects/affectedness, its ongoing affectual composition of *a* world, the *this-ness* of a world and a body." (pp. 2-3)*
 
+*"What should follow as critical practice, Barthes argued, is a neutrally inflected, immanent *pathos* or 'patho-logy" that would be an 'inventory of shimmers, of nuances, of states, of changes (pathè)' as they gather into 'affectivity, sensibility, sentiment,' and come to serve as 'the passion for difference' (77). Here affect theory is, at one level, an 'inventory of shimmers' while. upon anther register, it is a matter of affectual composition (in a couple of senses of the word 'composition'--as an ontology always coming to formation but also,, more prosaically, as creative/writerly task). This is a passion for differences as continuous, shimmering gradations of intensities. **Making an inventory (of singularities).** And in the interval, is the stretching: unfolding a patho-logy (of 'not-yets')." (p. 11, my emphasis)*
+
+- Affect theory, often approaches the challenges of a Cartesian dualism of mind and body awkwardly. While affect theorists often take materialist approaches to embodiment as an attempt to avoid speration of the mind from the body, affective and descriptive language betrays theorists (as it does Gregg and Seigworth in their intro) by attempting to locate affect at all, whether that be in cognition, *the* body, *a* body, bodies, and so on.
+
+- This contradiction between location and embodiment is exacerbated further by some theorists' tendencies to see affect as a set of, or inventory of, *singularities* which collect and consolidate into the Barthean "patho-logy" of Spinozan "not-yets." This tendency to see moments and loci of affect as singular is particularly difficult to reconcile when one considers affect and representation of identity. The effect being that that affect theory could find subject identity to be reducible to singular moments ("shimmers") of affect, a contradictory imagination of the multiplicitous subject of Deluezean post-structuralism to which much of affect theory is responding.
+
+- How do such singularities of affect compare to posthuman notions of the subject through "distributed consciousness" or "fragmented identities"? I argue that affect theory tends to view the "inventory of singularities" as an inventory of discrete and whole parts while the former notions of consciousness and identity are always partial and always pointing (differing from and defering) to the subjet of multiplicitous identity.
+
 *"Each essay presents its own account of encounters with forces and passages of intensity that bear out, while occasionally leaving bare, the singularly and intimately impersonal--even sub-personal and pre-personal--folds of belonging (or non-belonging) to a world. **That is the unceasing challenge presented by Spinoza's "not yet," conveying a sense of urgency that transforms the matter and mattering of affect into an ethical, aesthetic, and political task all at once.**" (p. 3, my emphasis)*
 
-*"What should follow as critical practice, Barthes argued, is a neutrally inflected, immanent *pathos* or 'patho-logy" that would be an 'inventory of shimmers, of nuances, of states, of changes (pathè)' as they gather into 'affectivity, sensibility, sentiment,' and come to serve as 'the passion for difference' (77). Here affect theory is, at one level, an 'inventory of shimmers' while. upon anther register, it is a matter of affectual composition (in a couple of senses of the word 'composition'--as an ontology always coming to formation but also,, more prosaically, as creative/writerly task). This is a passion for differences as continuous, shimmering gradations of intensities. **Making an inventory (of singularities).** And in the interval, is the stretching: unfolding a patho-logy (of 'not-yets')." (p. 11, my emphasis)
+- Can a matter of affect be reducible to the purely ethical, aesthetic, or political? I tend to think any of these essentializations of the "matter of affect" and why affect matters would require, by design, an omission of such factors which shape affectual phenomenology. That is, aesthetics themselves are an ethic,and there are certainly always politics to any aesthetic rubric.
 
-**"
 
+**"Happy Objects", Sara Ahmed.**
+
+*"I do not assume there is something called affect that stands apart or has autonomy, as if it corresponds to an object in the world, or even that there is something called affect that can be shared as an object of study...Bodily transformations may also transform what is experiences as delightful. If our bodies change over time, then the world around us will create different impressions. To be affected by something is to evaluate that thing. Evaluations are expressed in how bodies turn toward things. To give value to things in to shape what is near us." (pp. 30-31)*
+
+- Ahmed's notion of affect does not assume an immanence of affect in objects both in the world, or as an isolated object of study. In this  statement, Ahmend inspires an affective turn to Heidegger's "The Thing" where one questions of the "thingness" of a "thing" are foregrounded by questions of the feeling or affective possibility of the thing. Ahmed's rejection of the capacity for an object to hold affect beyond human projection and relation to the thing makes non-human objects neutral and passive tools which neglects how the bilateral relation where objects *shape us* (rather than us simply shaping objects) through infrastucture and politics, and the corresponding affectual responses we may have. This is why affect cannot be seperated from politics, ethics, or aesthetics. 
+
+**"Writing Shame", Elspeth Probyn.**
+
+*"Deleuze is particularly interested in what he calls 'the subjective disposition' of [T. E.] Lawrence's writing. We could more simply say that Lawrence's writing was heavily autobiographical and psychological, but Deleuze shifts the meaning of those terms. He starts with an appreciation of Lawrence's skill as a potraitist...The deftness with which Lawrence paints characters is remarkable. As Deleuze puts it, 'The finest writers have singular conditions of perception that allow them to draw on or shape awsthetic percepts like veritable visions' (116). Deleuze elaborates this claim through the notion of a subjective character or disposition. This is something quite beyond a personal identity. If we remember that for Deleuze there is no unified person as such, then the idea of an autobiographical or personal style of writing becomes impossible." (p. 78)*
+
+*"For Levi, shame in its shades of gray is plural. The experiences of shame are also what remind him of his humanity." (p. 88)*
+
+- 
+
+**"The Affective Turn: Political Economy, Biomedia, and Bodies", Patricia T. Clough**
+
+*"So, for Massumi the turn to affect is about opening the body to its indeterminacy, the indeterminacy of autonomic responses. It is therefore necessary for Massumi to define affect in terms of its autonomy from conscious perception and language, as well as emotion. He proposes that if conscious perception is to be understood as the narration of affect--as it is in the case of emotion, for example-there nonetheless always is 'a never-to-be-conscious-autonomic remainder'; 'a virtual remainder,' an excess of affect (2002, 25). Further, it is this excess out of which the narration of emotion is 'subtracted,' smoothing it over retrospectively 'to fit conscious requirements of continuity and linear causality' (29). Consciousness is 'subtractive' because it reduces complexity. It is 'limitativem; a derived function in a virtual field where actualization becomes, at that same moment of actualization, the limit of that field, which otherwise has no pre-given empirical limit. Affect and consciousness are in a virtual-actual circuit, which defines affect as potential and emergent." (p. 209)*
+
+-
+
+*tags: affect, mind body split, politics, aesthetics, materialism, bodies, biopolitics
 
 ## *Gender Trouble*, Judith Butler. 1990.
 
