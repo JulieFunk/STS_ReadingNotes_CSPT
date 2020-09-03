@@ -1,6 +1,26 @@
 # Affect and Embodiment Notes Log
 
-**Last updated: August 28, 2020**
+**Last updated: September 3, 2020**
+
+## *Vibrant Matter: A political ecology of things*, Jane Bennett. 2010.
+
+*"How would political responses to public problems change were we to take seriously the vitality of (nonhuman) bodies? By 'vitality' I mean the capacity of things--edibles, commodities, storms, metals--not only to impede or block the trajectories, propensities, or tendicies of their own...What difference would it make to public health if eating was understood as an encounter between various and variegated bodies, some of them mine, most of them not, and none of which always gets the upper hand...to be figured not simply as a resource, commoditiy, or instrumentality, but also and more radically as an 'actant'?" (p. viii)*
+
+*"For Spinoza, both simple bodies (which are perhaps better termed *protobodies*) and the complex or mosaicized modes they form are conative. In the case of the former, conatus is expressed as a stubborness or inertial tendency to persistl in the case of a complex body or mode, conatus refers to the effort required to maintain the specific relation of 'movement and rest' that obtains between its parts, a relation that defines the mode as what it is...What it means to be a "mode," then is to form alliances and enter assemblages: it is to mod(e)ify and be modified by others. The process of modification is not under the control of any one mode--no mode is an agent in the hierarchical sense." (p. 22)*
+
+-
+
+*"...a strong distinction between persons and things must remain lest one have no *moral* grounds for privileging man over germ...First, by acknowledging that the framework of subject versus object had indeed at times worked to prevent or ameliorate human suffering and to promote human happieness or well-being. Second,by noting that its successes come at the price of an instrumentalization of nonhuman nature that can itself be unethical and can itself undermine long-term human interests. Third, by pointing out that the Kantian imperative to treat humanity always as an end-in-itself and never merely as a means does not have a stellar record of success in preventing human suffering or promoting human well-being." (p. 12)*
+
+-
+
+*"...it may be relevant to note the extent to which **intentional reflexivity** is also a product of the interplay of human and nonhuman forces. Bernard Stiegler does just this in his study of how tool-use engendered a being with an inside, with, that is, a psychological landscape of interiority. Stiegler contends that conscious reflection in (proto)humans first emerged with the use of stone tools because the materiality of the tool acted as an external marker of a past need, as an 'archive' of its function. The stone tool (its texture, color, weight), in calling attention to its projected and recollected use, produced the first hollow of reflection. Humanity and nonhumanity have always performed an intricate dance with each other. There was necer a time when humean agency was anything other than an interfolding network of humanity and nonhumanity; today this mingling has become harder to ignore." (p. 31)*
+
+-
+
+*"'The bacteria in the human microbiome collectively possess at least 100 times as many genes as the mere 20,000 or so in the human genome.' The *its* outnumber the *mes*. In a world of vibrant matter, it is thus not enough to say that we are 'embodied.' We are, rather, an *array of bodies*, many different kinds of them in a nested set of microbiomes." (pp. 112-113)*
+
+*tags: vital materialities, new materialism, affect, things, aesthetics
 
 ## *The Affect Theory Reader*, eds., Melissa Gregg and Gregory J. Seigworth. 2010.
 
@@ -38,6 +58,8 @@
 **"The Affective Turn: Political Economy, Biomedia, and Bodies", Patricia T. Clough**
 
 *"So, for Massumi the turn to affect is about opening the body to its indeterminacy, the indeterminacy of autonomic responses. It is therefore necessary for Massumi to define affect in terms of its autonomy from conscious perception and language, as well as emotion. He proposes that if conscious perception is to be understood as the narration of affect--as it is in the case of emotion, for example-there nonetheless always is 'a never-to-be-conscious-autonomic remainder'; 'a virtual remainder,' an excess of affect (2002, 25). Further, it is this excess out of which the narration of emotion is 'subtracted,' smoothing it over retrospectively 'to fit conscious requirements of continuity and linear causality' (29). Consciousness is 'subtractive' because it reduces complexity. It is 'limitative; a derived function in a virtual field where actualization becomes, at that same moment of actualization, the limit of that field, which otherwise has no pre-given empirical limit. Affect and consciousness are in a virtual-actual circuit, which defines affect as potential and emergent." (p. 209)*
+
+- See Jane Bennett's *Vibrant Matter* (p. 14) for Adorno's "negative dialectics" and "nonidentity" which works similarly to Massumi's "excess of affect"
 
 - Massumi's turn to affect, understood as intensity (*Parables of the Virtual 27), incorporates, or rather, incorporealizes affect in its "virtual remainder" that cannot be captured and representated by conscious perception or language alone. Here, we have not necessarily a mind-body split, but what Stone refers to as the "physical/virtual distinction" where mind is *not* considered part of the virtual space of discourse (as more than simply language). Stone's concept of "warranting;" the production and maintaining of the relationship between the physical and virtual spaces. Massumi's "virtual-actual circuit" of affect, which can be understood as a warranting system between discourse and the physical (what Massumi calls the "actual"). What Massumi brings to Stone's "warranting" is an understanding of that affective "excess" which cannot be accurately produced or processed by representations of the self through the "subtractive consciousness", and which drives the constant efforts for homeostasis within the act of warranting, thereby driving continual and new productions of the self.
 
