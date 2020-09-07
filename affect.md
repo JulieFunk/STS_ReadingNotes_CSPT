@@ -1,6 +1,30 @@
 # Affect and Embodiment Notes Log
 
-**Last updated: September 3, 2020**
+**Last updated: September 7, 2020**
+
+## *The Body in Pain: Making and Unmaking the World*, Elaine Scarry. 1985.
+
+*"Medical contexts, like all other contexts of fuman experience, provide instances of alarming phenomenon noted earlier: to have great pain is to have certainty; to hear that another person has pain is to have doubt. (The doubt of other persons, here as elsewhere, amplifies the suffering of those already in pain.)" (p. 7)*
+
+-
+
+*"The word 'deconstruct; rather than 'destroy' is used...because to say the interrogation 'visibly destroys' the prisoner's voice only implies that the *outcome* of the event is the shattering of the person's voice (and if this alone were the goal, there would be no need for a verbal interrogation since the inflicted pain alone accomplishes this outcome). The prolonged interrogation, however, also graphically objectifies the step-by-step backward movement along the path by which language comes into being and which is here being reversed or uncreated or deconstructed." (p. 20)*
+
+-
+
+*"Although the gerund 'imagining' assumes an activity, and although in some philosophic contxts it is descried as though it were made up of both an intentional act and an intentional object, in fact (as has long been intuitively recognized in the centuries-old game played by children and philosophers ali) it is impossible to imagine without imagining something. The attributes that the invisible and itself (apart from its objects) inexperiencable activity of imagining is understood to have, tend to be derived from the attributes of whatever 'imagined object' happened to have been taken as a representable instance of imagineding." (pp. 162-163)*
+
+-
+
+*"The weapon and the tool seem at moments indistinguishable, for they may each reside in a single physical object...and may be quickly transformed back and forth, now into the one, now into the other. At the same time, however, a gulf of meaning, intention, connotation, and tone seperates them. If one holds the two side by side in front of mind--a hand (as weapon) and a hand (as tool), a knife (weapon) and a knife (tool), a hammer and a hammer...**it is then clear that what differentiates them is not the object itself but the surface on which they fall**." (p. 173)*
+
+-
+
+*"The power of alteration resides equally in weapons and in tools. In each there is a tremenendous distance between what is occuring at the two ends, **not simply because one end is active and the other passive**, but because a fairly inconsequential alteration at one end is magnified into an occurance full of consequence at the other. A small shift in the body at one end of the gun (so small it is almost imperceptible, only the position of one finger moves) can wholly shatter a body at its other end." (pp. 174-175)*
+
+-
+
+*tags: pain, body, language, affect, materialism, tools, agency
 
 ## *Vibrant Matter: A political ecology of things*, Jane Bennett. 2010.
 
