@@ -1,6 +1,26 @@
 # Affect and Embodiment Notes Log
 
-**Last updated: September 7, 2020**
+**Last updated: September 9, 2020**
+
+## *Ugly Feelings*, Sianne Ngai. 2005.
+
+*"These situations of passivity, as uniquely disclosed and interpreted by ignoble feelings like envy (of the disempowered for the powerful) or paranoia (about one’s perceived status as a small subject in a “total system”), can also be thought of as allegories for an autonomous or bourgeois art’s increasingly resigned and pessimistic understanding of its own relationship to political action." (p. 14)*
+
+*"While envy, as we have seen, aggressively casts doubt on the objectivity of the very object that distinguishes it from other agonistic emotions (the social relation of inequality), disgust is constituted by the vehement rejection or exclusion of its object. Hence while disgust is always disgust toward, in the same way that envy is envy of...For while envy and disgust are clearly object-directed, their trajectories are directed toward the negation of these objects, either by denying them or by subjecting them to epistemological skepticism." (p. 33)
+
+- How does Ngai's theorization of passivity differ from Scarry's? Bennett's? The prepositional quality of affects reveal everything about their object orientation. Pain is thought to objectless and passively received by Scarry. Ngai, like Bennett, refuses the objectless of such affects in an attempt to point to their politics of agency.
+
+- The negation of the thing is centered. Bartleby - is it that he actively prefers the act of negation (what i prefer is "not") or is be negating his preference towards any given activity ("I do not "prefer"). Agency and negation is powerfully ambiguous in Bartleby's "I prefer not" as verb and object are switched.
+
+*"Moods like irritation and anxiety, for instance, are defined by a fatness or ongoingness entirely opposed to the “suddenness” on which Aristotle’s aesthetics of fear depends. 7 And unlike rage, which cannot be sustained indefinitely, less dramatic feelings like envy and paranoia have a remarkable capacity for duration. If Ugly Feelings is a bestiary of affects, in other words, it is one filled with rats and possums rather than lions, its categories of feeling generally being, well, weaker and nastier..." (p. 18)*
+
+- Is rage an ugly emotion? It is not a grandiose one. What about the quiet positive emotions/virtues(?) -  contentedness? Can ulgy feelings be virtuous? I think yes - anxiety, irritability - but only when invoking ethics and then politics
+
+*"For the morally degraded and seemingly unjustifiable status of these feelings tends to produce an unpleasurable feeling about the feeling (a reflexive response taking the form of “I feel ashamed about feeling envious” or “I feel anxious about my enviousness”) that significantly parallels the doubleness on which irony, as an evaluative stance hinging on a relationship between the said and the unsaid, fundamentally depends." (p. 21)*
+
+- Reflexivity of emotion - reproduction of potential/virtual affect. This makes the ineffable "excess of affect" (Massumi's "virtual") "productive" - can be used against the subject in a politics of positivity
+
+*tags: object-oriented, affect, negation, language, grammar*
 
 ## *The Body in Pain: The Making and Unmaking of the World*, Elaine Scarry. 1985.
 
