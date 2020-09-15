@@ -1,22 +1,48 @@
 # Affect and Embodiment Notes Log
 
-**Last updated: September 9, 2020**
+**Last updated: September 15, 2020**
+
+## *Queer Phenomenology*, Sara Ahmed. 2006.
+
+*"Kant argues that to become orientated in this situation depends on knowing the di√erence between the left and right side of the body. Such a di√erence, in its turn, shows that orientation is not so much about the relation between objects that extend into space (say, the relation between the chair and the table); rather, orientation depends on the bodily inhabitance of that space." (p. 6)*
+
+*"In Being and Time, Martin Heidegger takes up Kant’s example of walking blindfolded into a dark room. For Heidegger, orientation is not about differentiating between the sides of the body, which allow us to know which way to turn...but about the familiarity of the world: 'I necessarily orient myself both in and from my being already alongside a world which is 'familiar.'" (pp. 6-7)*
+
+- For Kant, the intention of and to orientation is always embodied in the subject -- Thus the space is oriented to the human subject, with the human remaining constant but the door being *on* my left, now on my right.
+
+- Heidegger also orients the room subject-first, but allows the room to accumulate orientation in a unilateral direction. The unfamiliar object that is determined to be a chair can no longer remain unfamiliar
+
+*"The woman’s body becomes the tool in which the man 'extends himself.' The naturalization of heterosexuality as a line that directs bodies depends on the construction of women's bodies as being 'made' for men, such that women’s sexuality is seen as directed toward men. In other words, the signs of women’s desire, such as becoming wet, are read as 'pointing' toward men and even toward 'occupation' by men..." (p. 57)*
+
+*"...in the previous section, where he reads women’s sexual arousal as ‘‘pointing’’ to men in the sense of preparing the woman’s body for penetration by the penis: he sees, in other words, women’s bodies as directed toward heterosexual coupling. Here is a fantasy of the natural ft between men and women’s bodies, as if ‘‘they were made for each other’’ in the sense of being directed toward the other, or even ready-to-hand, for each other." (p. 71)*
+
+- How does the heteronormative view of women's bodies as tools read amomgst the different.understandings of what makes.a tool - Scarry - only when the penis (surface) is present does the vagina become a tool...but Scarry's weapon/tool understanding needs to be applied to the penis as well
+
+*"The Orient provides the object, as well as the instrument, that allows the Occident to take shape, to become a subject, as that which ‘‘we’’ are around. The Occident would be what we are orientated around. Or we could even say that ‘‘the world’’ comes to be seen as orientated ‘‘around’’ the Occident, through the very orientation of the gaze toward the Orient, the East, as the exotic other that can just be seen on the horizon." (p. 139)*
+
+*"The object function of the Orient, then, is not simply a sign of the presence of the West— of where it ‘‘fnds its way’’—but also a measure how the West has ‘‘directed’’ its time, energy, and resources." (p. 140)*
+
+- The Occident can be thought of as having more mass, more gravitational pull (ie, power) than the Orient. Represetation and Semiotics - thiknk about how both require prepositions which create power dynamics (passive v active).
+
+- Semiotics of the Orient is to point to the Occidental
+
+*tags: affect, queer, representation, defamiliarizing, orientation
 
 ## *Ugly Feelings*, Sianne Ngai. 2005.
 
-*"These situations of passivity, as uniquely disclosed and interpreted by ignoble feelings like envy (of the disempowered for the powerful) or paranoia (about one’s perceived status as a small subject in a “total system”), can also be thought of as allegories for an autonomous or bourgeois art’s increasingly resigned and pessimistic understanding of its own relationship to political action." (p. 14)*
+*"These situations of passivity, as uniquely disclosed and interpreted by ignoble feelings like envy (of the disempowered for the powerful) or paranoia (about one’s perceived status as a small subject in a “total system”), can also be thought of as allegories for an autonomous or bourgeois art’s increasingly resigned and pessimistic understanding of its own relationship to political action." (p. 3)*
 
-*"While envy, as we have seen, aggressively casts doubt on the objectivity of the very object that distinguishes it from other agonistic emotions (the social relation of inequality), disgust is constituted by the vehement rejection or exclusion of its object. Hence while disgust is always disgust toward, in the same way that envy is envy of...For while envy and disgust are clearly object-directed, their trajectories are directed toward the negation of these objects, either by denying them or by subjecting them to epistemological skepticism." (p. 33)
+*"While envy, as we have seen, aggressively casts doubt on the objectivity of the very object that distinguishes it from other agonistic emotions (the social relation of inequality), disgust is constituted by the vehement rejection or exclusion of its object. Hence while disgust is always disgust toward, in the same way that envy is envy of...For while envy and disgust are clearly object-directed, their trajectories are directed toward the negation of these objects, either by denying them or by subjecting them to epistemological skepticism." (p. 22)
 
 - How does Ngai's theorization of passivity differ from Scarry's? Bennett's? The prepositional quality of affects reveal everything about their object orientation. Pain is thought to objectless and passively received by Scarry. Ngai, like Bennett, refuses the objectless of such affects in an attempt to point to their politics of agency.
 
 - The negation of the thing is centered. Bartleby - is it that he actively prefers the act of negation (what i prefer is "not") or is be negating his preference towards any given activity ("I do not "prefer"). Agency and negation is powerfully ambiguous in Bartleby's "I prefer not" as verb and object are switched.
 
-*"Moods like irritation and anxiety, for instance, are defined by a fatness or ongoingness entirely opposed to the “suddenness” on which Aristotle’s aesthetics of fear depends. 7 And unlike rage, which cannot be sustained indefinitely, less dramatic feelings like envy and paranoia have a remarkable capacity for duration. If Ugly Feelings is a bestiary of affects, in other words, it is one filled with rats and possums rather than lions, its categories of feeling generally being, well, weaker and nastier..." (p. 18)*
+*"Moods like irritation and anxiety, for instance, are defined by a fatness or ongoingness entirely opposed to the “suddenness” on which Aristotle’s aesthetics of fear depends. 7 And unlike rage, which cannot be sustained indefinitely, less dramatic feelings like envy and paranoia have a remarkable capacity for duration. If Ugly Feelings is a bestiary of affects, in other words, it is one filled with rats and possums rather than lions, its categories of feeling generally being, well, weaker and nastier..." (p. 7)*
 
 - Is rage an ugly emotion? It is not a grandiose one. What about the quiet positive emotions/virtues(?) -  contentedness? Can ulgy feelings be virtuous? I think yes - anxiety, irritability - but only when invoking ethics and then politics
 
-*"For the morally degraded and seemingly unjustifiable status of these feelings tends to produce an unpleasurable feeling about the feeling (a reflexive response taking the form of “I feel ashamed about feeling envious” or “I feel anxious about my enviousness”) that significantly parallels the doubleness on which irony, as an evaluative stance hinging on a relationship between the said and the unsaid, fundamentally depends." (p. 21)*
+*"For the morally degraded and seemingly unjustifiable status of these feelings tends to produce an unpleasurable feeling about the feeling (a reflexive response taking the form of “I feel ashamed about feeling envious” or “I feel anxious about my enviousness”) that significantly parallels the doubleness on which irony, as an evaluative stance hinging on a relationship between the said and the unsaid, fundamentally depends." (p. 10)*
 
 - Reflexivity of emotion - reproduction of potential/virtual affect. This makes the ineffable "excess of affect" (Massumi's "virtual") "productive" - can be used against the subject in a politics of positivity
 
