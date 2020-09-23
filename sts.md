@@ -1,6 +1,26 @@
 # STS Notes Log
 
-**Last updated: August 18, 2020**
+**Last updated: September 23, 2020**
+
+## "Do Artifacts Have Politics?", Langdon Winner. 1980.
+
+*"By 'politics,' I mean arrangements of power and authority in **human associations** as well as the activities that take place within those arrangements. For my purposes, "technology" here is understood to mean all of modern practical artifice, but to avoid confustion I prefer to speak of technolog*ies*, smaller or larger pieces or systems of hardware of a specific kind." (p. 123)*
+
+- Winner's focus on "*technologies*" as systems, or discrete components making up systems, can be understood as "infrastructure." While Winner is predominantly looking at material technologies as infrastructure--sometimes literal urban infrastructure such as roads and bridges, one must extend the political consequences of technologies as artifacts to information design and management too, both being "technical arrangements as forms of order." The immaterial information technologies are artifacts in question in the work of Bowker and Star who show that immaterial information infrastructures have serious material consequences.
+
+- Winner limits his analysis of artifacts to those which have "human associations" (my emphasis in quote), and thereby those which follow human political rationality and have human political consequences. Of course, a general understanding of "artifacts" is that they are, by definition, human-made. However, a posthuman approach to Winner's analysis might speculate how non-human technologies and systems of form and order have politics.
+
+- Perhaps one of the problems of speculating on the non-human politics of artifacts is that it undergoes a sort of quantum theory of observation in which human analysis of non-human politics is centered in human political implications (i.e., the human political implications of understanding non-human politics). (This is always the general problem with posthuman thought.
+
+*"If our moral and political language for evalutating technology includes only categoriees having to do wit h tools and uses, if it does not include attention to the meaning of the designs and arrangements of our artifacts, the we will be blinded to much that is intellectually and practically crucial" (p. 125)*
+ 
+- Winner looks at technologies with political intention upon design (Robert Moses' bridges) and those which become political upon uses that are not necessarily intended uses at the moment of design (automated harvesting machines and tomato plant breeding in California) (p. 127). That is, some of the politics of technologies are inherently political, while others' effects on society are through political inheritance exemplified by Engels' position that technological enhancements require the subordination of workers as a capitalist politics *inherited* through the implementation, organization, and management of new technologies (p. 129).  
+
+*"Here, the initial choice about whether or not to adopt something is decisive in regard to its consequences. There are no alternative physical designs or arrangements that would meake a significant difference; there are, furthermore, no genuine possiblities for creative intervention by different social systems--capitalist or socialist--that could change the intractability of the entity or significantly alter the quality of its political effects." (p. 134)*
+
+- Winner's two types of political interpretations of artifacts (what I call inherently political by design and political inheritance through use/arrangement) are bound in what Haraway calls a "zone of implosion." While I agree that artifacts are political, I hesitate to adopt the categorization that Winner gives them as seperable. Rather, artifacts at the level of design have politics that are enforced or countered through use and arrangement (e.g., cut curb as a response to pedestrian sections of road as a response to an increase in automobiles in urban centres).
+
+*tags: infrastructure, technology, systems, human, oranization
 
 ## *Feminist Technology*, Eds., Linda L. Layne, Sharra L. Vostral, and Kate Boyer. 2010.
 
